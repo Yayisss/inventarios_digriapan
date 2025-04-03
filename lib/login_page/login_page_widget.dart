@@ -344,7 +344,6 @@ class _LoginPageWidgetState extends State<LoginPageWidget> {
                     color: Color.fromARGB(255, 243, 124, 33)),
               ),
               SizedBox(height: 20),
-             
             ],
           ),
         ),
