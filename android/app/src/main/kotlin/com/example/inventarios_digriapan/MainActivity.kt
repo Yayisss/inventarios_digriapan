@@ -1,0 +1,6 @@
+package com.example.inventarios_digriapan
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
